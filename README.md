@@ -64,4 +64,3 @@ Developed by [Haris Khan](https://github.com/developebyharis)
 
 > If you liked this project, consider giving it a ⭐ on GitHub!
 
-```
