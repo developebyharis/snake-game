@@ -66,5 +66,5 @@ Developed by [Haris Khan](https://github.com/developebyharis)
 
 ```
 
----
+
 
