@@ -1,6 +1,4 @@
-Here’s a professional and clean `README.md` for your [Snake Game project](https://github.com/developebyharis/snake-game):
 
----
 
 ````markdown
 # 🐍 Two Player Snake Game (Inspired by Snake.io)
@@ -24,9 +22,9 @@ This is a simple, fun, and competitive **2-Player Snake Game** built with **Java
 
 ## 🧱 How to Run
 
-1. **Clone the Repository**
+1. Clone the Repository
 
-```bash
+
 git clone https://github.com/developebyharis/snake-game.git
 cd snake-game
 ````
@@ -44,9 +42,6 @@ javac TwoPlayerSnakeGame.java
 ```bash
 java TwoPlayerSnakeGame
 ```
-
-## 📂 Project Structure
-
 
 ## 🛠️ Built With
 
