@@ -1,26 +1,23 @@
-
-
-````markdown
-# 🐍 Two Player Snake Game (Inspired by Snake.io)
+# Two Player Snake Game (Inspired by Snake.io)
 
 This is a simple, fun, and competitive **2-Player Snake Game** built with **Java**. Inspired by the classic Snake.io, this game allows two players to control their own snakes, collect food, and compete for the highest score!
 
-## 🚀 Features
+## Features
 
-- 🎮 Two-player gameplay
-- 🧠 Intelligent food placement
-- 💥 Collision detection (with walls, self, and opponent)
-- 🧱 Custom board/grid layout
-- 🔁 Real-time movement and rendering
+- Two-player gameplay
+- Intelligent food placement
+- Collision detection (with walls, self, and opponent)
+- Custom board/grid layout
+- Real-time movement and rendering
 
-## 🎮 Controls
+## Controls
 
 | Player | Key for Movement |
 |--------|------------------|
 | Player 1 | `W` `A` `S` `D` |
 | Player 2 | Arrow Keys (`↑ ↓ ← →`) |
 
-## 🧱 How to Run
+## How to Run
 
 1. Clone the Repository
 
@@ -43,20 +40,20 @@ javac TwoPlayerSnakeGame.java
 java TwoPlayerSnakeGame
 ```
 
-## 🛠️ Built With
+## Built With
 
-* 💻 Java (Core)
-* 🎨 Java AWT/Swing for graphics
-* 🧠 Custom game loop logic
+* Java (Core)
+* Java AWT/Swing for graphics
+* Custom game loop logic
 
-## 🧠 Ideas for Future Improvements
+## Ideas for Future Improvements
 
 * Add score tracking and game over screen
 * Implement power-ups (speed boost, invincibility, etc.)
 * Add AI snake for single player mode
 * Sound effects and animations
 
-## 👨‍💻 Author
+## Author
 
 Developed by [Haris Khan](https://github.com/developebyharis)
 
